@@ -3,7 +3,7 @@ Created on Aug 1, 2023
 
 @author: Miho
 
-Unit test for donor_list.py
+Unit test for donor_list.py file
 '''
 from unittest import TestCase
 from src.donor_list import DonorList
