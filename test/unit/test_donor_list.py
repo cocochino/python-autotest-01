@@ -6,7 +6,7 @@ Created on Aug 1, 2023
 Unit test for donor_list.py file
 '''
 from unittest import TestCase
-from src.donor_list import DonorList
+from donor_list import DonorList
 
 location1 = 'Boston'        
 sv1 = 'Phrito S'

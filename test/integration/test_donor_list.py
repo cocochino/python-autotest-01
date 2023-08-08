@@ -7,7 +7,8 @@ Integration test for donor_list.py
 This is integration since donor creation causes import of blood_donor.py 
 '''
 from unittest import TestCase
-from src.donor_list import DonorList
+from donor_list import DonorList
+#from donor_list import DonorList
 
 
 location1 = 'Boston'        

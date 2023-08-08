@@ -7,7 +7,7 @@ Demo of simple comparison of strings and JSON outputs
 '''
 
 from unittest import TestCase
-from src.blood_donor import BloodDonor
+from blood_donor import BloodDonor
 
 d1Name = 'Boston'        
 d1Status = 'active'

@@ -4,7 +4,7 @@ Created on Aug 1, 2023
 @author: Miho
 '''
 
-from src.donor import Donor 
+from donor import Donor 
 
 class BloodDonor(Donor):
     '''

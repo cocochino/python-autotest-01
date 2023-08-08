@@ -3,7 +3,7 @@ Created on Aug 1, 2023
 
 @author: Miho
 '''
-from src.blood_donor import BloodDonor
+from blood_donor import BloodDonor
 
 class DonorList(object):
     '''
